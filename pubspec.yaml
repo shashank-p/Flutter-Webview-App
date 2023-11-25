@@ -10,12 +10,10 @@ description: A new Flutter webview project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0 <3.2.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
-  flutter_webview_plugin: "0.3.0+2"
+  flutter_webview: ^1.0.7
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
